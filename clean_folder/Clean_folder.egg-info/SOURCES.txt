@@ -1,0 +1,10 @@
+setup.py
+Clean_folder.egg-info/PKG-INFO
+Clean_folder.egg-info/SOURCES.txt
+Clean_folder.egg-info/dependency_links.txt
+Clean_folder.egg-info/top_level.txt
+clean_folder/__init__.py
+clean_folder/constants.py
+clean_folder/file_parser.py
+clean_folder/main.py
+clean_folder/normalize.py
